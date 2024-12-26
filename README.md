@@ -45,7 +45,7 @@ Below is a table listing all the exercises in the Rustlings course. I will updat
 |                        | move_semantics5       | ✅     |
 | 07_structs             | structs1              | ✅     |
 |                        | structs2              | ✅     |
-|                        | structs3              | ❌     |
+|                        | structs3              | ✅     |
 | 08_enums               | enums1                | ❌     |
 |                        | enums2                | ❌     |
 |                        | enums3                | ❌     |
