@@ -52,7 +52,7 @@ Below is a table listing all the exercises in the Rustlings course. I will updat
 | 09_strings             | strings1              | ✅     |
 |                        | strings2              | ✅     |
 |                        | strings3              | ✅     |
-|                        | strings4              | ❌     |
+|                        | strings4              | ✅     |
 | 10_modules             | modules1              | ❌     |
 |                        | modules2              | ❌     |
 |                        | modules3              | ❌     |
