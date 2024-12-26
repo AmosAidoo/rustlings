@@ -54,7 +54,7 @@ Below is a table listing all the exercises in the Rustlings course. I will updat
 |                        | strings3              | ✅     |
 |                        | strings4              | ✅     |
 | 10_modules             | modules1              | ✅     |
-|                        | modules2              | ❌     |
+|                        | modules2              | ✅     |
 |                        | modules3              | ❌     |
 | 11_hashmaps            | hashmaps1             | ❌     |
 |                        | hashmaps2             | ❌     |
