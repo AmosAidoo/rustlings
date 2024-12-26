@@ -25,7 +25,7 @@ Below is a table listing all the exercises in the Rustlings course. I will updat
 | 02_functions           | functions1            | ✅     |
 |                        | functions2            | ✅     |
 |                        | functions3            | ✅     |
-|                        | functions4            | ❌     |
+|                        | functions4            | ✅     |
 |                        | functions5            | ❌     |
 | 03_if                  | if1                   | ❌     |
 |                        | if2                   | ❌     |
