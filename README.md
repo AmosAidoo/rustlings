@@ -22,7 +22,7 @@ Below is a table listing all the exercises in the Rustlings course. I will updat
 |                        | variables4            | ✅     |
 |                        | variables5            | ✅     |
 |                        | variables6            | ✅     |
-| 02_functions           | functions1            | ❌     |
+| 02_functions           | functions1            | ✅     |
 |                        | functions2            | ❌     |
 |                        | functions3            | ❌     |
 |                        | functions4            | ❌     |
