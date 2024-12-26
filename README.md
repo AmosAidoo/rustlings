@@ -30,7 +30,7 @@ Below is a table listing all the exercises in the Rustlings course. I will updat
 | 03_if                  | if1                   | ✅     |
 |                        | if2                   | ✅     |
 |                        | if3                   | ✅     |
-| 04_primitive_types     | primitive_types1      | ❌     |
+| 04_primitive_types     | primitive_types1      | ✅     |
 |                        | primitive_types2      | ❌     |
 |                        | primitive_types3      | ❌     |
 |                        | primitive_types4      | ❌     |
