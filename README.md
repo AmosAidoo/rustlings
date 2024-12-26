@@ -48,7 +48,7 @@ Below is a table listing all the exercises in the Rustlings course. I will updat
 |                        | structs3              | ✅     |
 | 08_enums               | enums1                | ✅     |
 |                        | enums2                | ✅     |
-|                        | enums3                | ❌     |
+|                        | enums3                | ✅     |
 | 09_strings             | strings1              | ❌     |
 |                        | strings2              | ❌     |
 |                        | strings3              | ❌     |
