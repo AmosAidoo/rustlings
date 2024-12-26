@@ -58,7 +58,7 @@ Below is a table listing all the exercises in the Rustlings course. I will updat
 |                        | modules3              | ✅     |
 | 11_hashmaps            | hashmaps1             | ✅     |
 |                        | hashmaps2             | ✅     |
-|                        | hashmaps3             | ❌     |
+|                        | hashmaps3             | ✅     |
 | 12_options             | options1              | ❌     |
 |                        | options2              | ❌     |
 |                        | options3              | ❌     |
