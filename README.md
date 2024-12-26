@@ -16,7 +16,7 @@ Below is a table listing all the exercises in the Rustlings course. I will updat
 |------------------------|------------------------|---------|
 | 00_intro               | intro1                | ✅     |
 |                        | intro2                | ✅     |
-| 01_variables           | variables1            | ❌     |
+| 01_variables           | variables1            | ✅     |
 |                        | variables2            | ❌     |
 |                        | variables3            | ❌     |
 |                        | variables4            | ❌     |
