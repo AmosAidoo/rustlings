@@ -35,7 +35,7 @@ Below is a table listing all the exercises in the Rustlings course. I will updat
 |                        | primitive_types3      | ✅     |
 |                        | primitive_types4      | ✅     |
 |                        | primitive_types5      | ✅     |
-|                        | primitive_types6      | ❌     |
+|                        | primitive_types6      | ✅     |
 | 05_vecs                | vecs1                 | ❌     |
 |                        | vecs2                 | ❌     |
 | 06_move_semantics      | move_semantics1       | ❌     |
