@@ -50,7 +50,7 @@ Below is a table listing all the exercises in the Rustlings course. I will updat
 |                        | enums2                | ✅     |
 |                        | enums3                | ✅     |
 | 09_strings             | strings1              | ✅     |
-|                        | strings2              | ❌     |
+|                        | strings2              | ✅     |
 |                        | strings3              | ❌     |
 |                        | strings4              | ❌     |
 | 10_modules             | modules1              | ❌     |
