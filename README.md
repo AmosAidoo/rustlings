@@ -41,7 +41,7 @@ Below is a table listing all the exercises in the Rustlings course. I will updat
 | 06_move_semantics      | move_semantics1       | ✅     |
 |                        | move_semantics2       | ✅     |
 |                        | move_semantics3       | ✅     |
-|                        | move_semantics4       | ❌     |
+|                        | move_semantics4       | ✅     |
 |                        | move_semantics5       | ❌     |
 | 07_structs             | structs1              | ❌     |
 |                        | structs2              | ❌     |
