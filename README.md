@@ -70,7 +70,7 @@ Below is a table listing all the exercises in the Rustlings course. I will updat
 |                        | errors6               | ✅     |
 | 14_generics            | generics1             | ✅     |
 |                        | generics2             | ✅     |
-| 15_traits              | traits1               | ❌     |
+| 15_traits              | traits1               | ✅     |
 |                        | traits2               | ❌     |
 |                        | traits3               | ❌     |
 |                        | traits4               | ❌     |
