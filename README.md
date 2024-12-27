@@ -72,7 +72,7 @@ Below is a table listing all the exercises in the Rustlings course. I will updat
 |                        | generics2             | ✅     |
 | 15_traits              | traits1               | ✅     |
 |                        | traits2               | ✅     |
-|                        | traits3               | ❌     |
+|                        | traits3               | ✅     |
 |                        | traits4               | ❌     |
 |                        | traits5               | ❌     |
 | 16_lifetimes           | lifetimes1            | ❌     |
