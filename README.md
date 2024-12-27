@@ -106,7 +106,7 @@ Below is a table listing all the exercises in the Rustlings course. I will updat
 |                        | try_from_into         | ❌     |
 |                        | using_as              | ❌     |
 | quizzes                | quiz1                 | ✅     |
-|                        | quiz2                 | ❌     |
+|                        | quiz2                 | ✅     |
 |                        | quiz3                 | ❌     |
 
 ---
