@@ -73,7 +73,7 @@ Below is a table listing all the exercises in the Rustlings course. I will updat
 | 15_traits              | traits1               | ✅     |
 |                        | traits2               | ✅     |
 |                        | traits3               | ✅     |
-|                        | traits4               | ❌     |
+|                        | traits4               | ✅     |
 |                        | traits5               | ❌     |
 | 16_lifetimes           | lifetimes1            | ❌     |
 |                        | lifetimes2            | ❌     |
