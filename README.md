@@ -76,7 +76,7 @@ Below is a table listing all the exercises in the Rustlings course. I will updat
 |                        | traits4               | ✅     |
 |                        | traits5               | ✅     |
 | 16_lifetimes           | lifetimes1            | ✅     |
-|                        | lifetimes2            | ❌     |
+|                        | lifetimes2            | ✅     |
 |                        | lifetimes3            | ❌     |
 | 17_tests               | tests1                | ❌     |
 |                        | tests2                | ❌     |
