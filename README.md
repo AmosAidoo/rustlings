@@ -64,7 +64,7 @@ Below is a table listing all the exercises in the Rustlings course. I will updat
 |                        | options3              | ✅     |
 | 13_error_handling      | errors1               | ✅     |
 |                        | errors2               | ✅     |
-|                        | errors3               | ❌     |
+|                        | errors3               | ✅     |
 |                        | errors4               | ❌     |
 |                        | errors5               | ❌     |
 |                        | errors6               | ❌     |

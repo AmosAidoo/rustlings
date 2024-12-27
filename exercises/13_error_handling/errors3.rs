@@ -3,6 +3,7 @@
 // Why not? What should we do to fix it?
 
 use std::num::ParseIntError;
+use std::error::Error;
 
 // Don't change this function.
 fn total_cost(item_quantity: &str) -> Result<i32, ParseIntError> {
@@ -15,7 +16,7 @@ fn total_cost(item_quantity: &str) -> Result<i32, ParseIntError> {
 
 // TODO: Fix the compiler error by changing the signature and body of the
 // `main` function.
-fn main() {
+fn main() -> Result<(), Box<dyn Error>> {
     let mut tokens = 100;
     let pretend_user_input = "8";
 
@@ -28,4 +29,5 @@ fn main() {
         tokens -= cost;
         println!("You now have {tokens} tokens.");
     }
+    Ok(())
 }
