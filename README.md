@@ -79,7 +79,7 @@ Below is a table listing all the exercises in the Rustlings course. I will updat
 |                        | lifetimes2            | ✅     |
 |                        | lifetimes3            | ✅     |
 | 17_tests               | tests1                | ✅     |
-|                        | tests2                | ❌     |
+|                        | tests2                | ✅     |
 |                        | tests3                | ❌     |
 | 18_iterators           | iterators1            | ❌     |
 |                        | iterators2            | ❌     |
