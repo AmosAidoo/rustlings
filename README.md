@@ -82,7 +82,7 @@ Below is a table listing all the exercises in the Rustlings course. I will updat
 |                        | tests2                | ✅     |
 |                        | tests3                | ✅     |
 | 18_iterators           | iterators1            | ✅     |
-|                        | iterators2            | ❌     |
+|                        | iterators2            | ✅     |
 |                        | iterators3            | ❌     |
 |                        | iterators4            | ❌     |
 |                        | iterators5            | ❌     |
