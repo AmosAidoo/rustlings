@@ -87,7 +87,7 @@ Below is a table listing all the exercises in the Rustlings course. I will updat
 |                        | iterators4            | ✅     |
 |                        | iterators5            | ✅     |
 | 19_smart_pointers      | box1                  | ✅     |
-|                        | rc1                   | ❌     |
+|                        | rc1                   | ✅     |
 |                        | arc1                  | ❌     |
 |                        | cow1                  | ❌     |
 | 20_threads             | threads1              | ❌     |
