@@ -92,7 +92,7 @@ Below is a table listing all the exercises in the Rustlings course. I will updat
 |                        | cow1                  | ✅     |
 | 20_threads             | threads1              | ✅     |
 |                        | threads2              | ✅     |
-|                        | threads3              | ❌     |
+|                        | threads3              | ✅     |
 | 21_macros              | macros1               | ❌     |
 |                        | macros2               | ❌     |
 |                        | macros3               | ❌     |
